@@ -1,0 +1,4 @@
+#Ignore local wp dev folders
+/app
+/conf
+/logs
